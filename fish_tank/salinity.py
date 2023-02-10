@@ -15,7 +15,7 @@ def monitor():
       mesg = "Salinity too high!"
     
   except:
-    print("Unexpected error")
+    print("Error code salinity")
 
   return mesg
 
